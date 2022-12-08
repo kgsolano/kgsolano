@@ -21,6 +21,16 @@ I am a former elementary school teacher :school_satchel: who has turned his sigh
   </div>
 </div>
 
+---
+
+### About Me: 
+
+* :mortar_board: I graduated App Academy having accumulated many skills including: javascript, python, react, flask, express, git, and more! 
+* 🧩 I love problem solving and the never ending learning through programming
+* 🏕 When I'm afk I love to camp, hike, and travel
+
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgsolano&show_icons=true&theme=tokyonight)
+
 <!--
 **kgsolano/kgsolano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
